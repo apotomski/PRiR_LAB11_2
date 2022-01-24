@@ -15,4 +15,4 @@ Uzyskany wykres uczenia się sieci:
 
 ![image](https://user-images.githubusercontent.com/80594314/150849235-1e8fe9ef-c070-4f8a-94b6-1806c5cd2a57.png)
 
-Źródło: https://colab.research.google.com/github/smartgeometry-ucl/dl4g/blob/master/colorization.ipynb
+Źródło(source): https://colab.research.google.com/github/smartgeometry-ucl/dl4g/blob/master/colorization.ipynb
