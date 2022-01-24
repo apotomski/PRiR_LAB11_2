@@ -3,7 +3,7 @@
 Zadanie 2 z laboratoriów 11 z przedmiotu PRiR. Należało znaleźć jakiś przykład dla pyTorch/Tensorflow i go przetestować i opisać. Program działa w środowisko Google Colaboratory.
 Program rekoloryzuje obrazki na podstawie przetwarzania obrazu na obraz.
 Program używa pyTorch. Trenuje sieć na podstawie pobranych obrazków.
-Efek jest dość ciekawy aczkolwiek nie zmiana kolorów jest widoczna na pierwszu rzut oka.
+Efek jest dość ciekawy aczkolwiek efekt zmiany kolorów nie zawsze jest widoczna na pierwszu rzut oka aczkolwiek nie udało mi się zaopserwować przypadku kiedy żadne zmiany by nie zostały dokonane.
 
 Przykład uzyskanego efektu po wytrenwaniu sieci:
 
